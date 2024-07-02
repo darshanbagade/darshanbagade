@@ -1,7 +1,8 @@
 <h1 align="left">Welcome to Darshan's GitHub Profile 👋</h1>
 
 ###
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7167A&random=false&width=700&lines=Hello+!+I'm++Darshan;I+love+solving+problems+with+code;Exploring+data+structures+and+algorithms;I+enjoy+designing+and+developing+websites)](https://git.io/typing-svg)
+####
 <h2 align="left">About Me ℹ️</h2>
 
 ###

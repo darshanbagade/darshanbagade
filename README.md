@@ -8,19 +8,19 @@
 
 <p align="center" style="margin: 0; padding-top: 10px; ">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/darshanbagade" target="_blank" style="margin: 10px 10px;">
+  <a href="https://linkedin.com/in/darshanbagade" target="_blank" style="margin: 0 10px;">
     <img alt="LinkedIn" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
+  </a> &nbsp;&nbsp;
   <!-- X (Twitter) -->
-  <a href="https://x.com/darshan00x" target="_blank" style="margin: 10px 10px; padding-bottom:10px; ">
+  <a href="https://x.com/darshan00x" target="_blank" style="margin: 0 10px; padding-bottom:10px; ">
     <img src="./assets/x.png" width="42" height="42" style="margin: 0px 0px; padding-bottom:1px;border-radius:4px; border-rounded:2px ">
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- Email -->
-  <a href="mailto:darshanbagade123@gmail.com" style="margin: 10px 10px;">
+  <a href="mailto:darshanbagade123@gmail.com" style="margin: 0 10px;">
     <img alt="Email" height="45" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- Hashnode -->
-  <a href="https://hashnode.com/@darshanbagade" target="_blank" style="margin: 10px 10px;">
+  <a href="https://hashnode.com/@darshanbagade" target="_blank" style="margin: 0 10px;">
     <img src="./assets/hashnode.png" width="42" height="42" 
         style="margin: 0; padding-bottom:1px; border-radius:4px;">
   </a>

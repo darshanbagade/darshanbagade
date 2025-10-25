@@ -1,28 +1,30 @@
 <div align="center">
 <img src="./assets/I’m Darshan.gif">
 
-***I’m a Full Stack Web Developer and student. <br>I build full-stack projects, contribute to open source, and organize workshops and hackathons.***
+### *I’m a Full Stack Web Developer and Computer Science Student. <br>I build full-stack projects, contribute to open source, and organize workshops and hackathons.*
 <br/>
 
 ---
 
-<p align="center" style="margin: 0; padding: 0;">
+<p align="center" style="margin: 0; padding-top: 10px; ">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/darshanbagade" target="_blank" style="margin: 0 10px;">
     <img alt="LinkedIn" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   <!-- X (Twitter) -->
-  <a href="https://x.com/darshan00x" target="_blank" style="margin: 0 10px;">
-    <svg xmlns="http://www.w3.org/2000/svg" height="50" width="50" background="white" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M453.2 112L523.8 112L369.6 288.2L551 528L409 528L297.7 382.6L170.5 528L99.8 528L264.7 339.5L90.8 112L236.4 112L336.9 244.9L453.2 112zM428.4 485.8L467.5 485.8L215.1 152L173.1 152L428.4 485.8z"/></svg>
+  <a href="https://x.com/darshan00x" target="_blank" style="margin: 0 10px; padding-bottom:10px; ">
+    <img src="./assets/x.png" width="42" height="42" style="margin: 0px 0px; padding-bottom:1px;border-radius:4px; border-rounded:2px ">
   </a>
   <!-- Email -->
   <a href="mailto:darshanbagade123@gmail.com" style="margin: 0 10px;">
-    <img alt="Email" height="43" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+    <img alt="Email" height="45" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
   </a>
   <!-- Hashnode -->
   <a href="https://hashnode.com/@darshanbagade" target="_blank" style="margin: 0 10px;">
-    <svg xmlns="http://www.w3.org/2000/svg" height="50" width="50" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path fill="#2942ff" d="M99.7 235.1C52.8 281.1 52.8 358 99.7 404.9L235.6 540.8C281.6 587.7 358.5 587.7 405.4 540.8L541.3 404.9C588.2 358 588.2 281.1 541.3 235.1L405.4 99.2C358.5 52.3 281.6 52.3 235.6 99.2L99.7 235.1zM260 260.5C292.9 227.4 346.4 227.1 379.5 260C412.6 292.9 412.9 346.4 380 379.5C347.1 412.6 293.6 412.9 260.5 380C227.4 347.1 227.1 293.6 260 260.5z"/></svg>
+    <img src="./assets/hashnode.png" width="42" height="42" 
+        style="margin: 0; padding-bottom:1px; border-radius:4px;">
   </a>
+
 </p>
 
 ---
@@ -112,7 +114,8 @@
 ### Visit My Blog on Hashnode
 
   <a href="https://hashnode.com/@darshanbagade" target="_blank" style="margin: 0 10px;">
-    <svg xmlns="http://www.w3.org/2000/svg" height="50" width="50" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path fill="#2942ff" d="M99.7 235.1C52.8 281.1 52.8 358 99.7 404.9L235.6 540.8C281.6 587.7 358.5 587.7 405.4 540.8L541.3 404.9C588.2 358 588.2 281.1 541.3 235.1L405.4 99.2C358.5 52.3 281.6 52.3 235.6 99.2L99.7 235.1zM260 260.5C292.9 227.4 346.4 227.1 379.5 260C412.6 292.9 412.9 346.4 380 379.5C347.1 412.6 293.6 412.9 260.5 380C227.4 347.1 227.1 293.6 260 260.5z"/></svg>
+    <img src="./assets/hashnode.png" width="42" height="42" 
+        style="margin: 0; padding-bottom:1px; border-radius:4px;">
   </a>
   
 

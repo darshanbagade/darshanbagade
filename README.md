@@ -4,7 +4,6 @@
 ### *I’m a Full Stack Web Developer and Computer Science Student. <br>I build full-stack projects, contribute to open source, and organize workshops and hackathons.*
 <br/>
 
----
 
 <p align="center" style="margin: 0; padding-top: 10px; ">
   <!-- LinkedIn -->
@@ -29,7 +28,12 @@
 
 ---
 
-## Tech Stack:
+## My Holopin Badges
+[![An image of @darshanbagade's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshanbagade)](https://holopin.io/@darshanbagade)
+
+---
+
+## Tech Stack
 
 <table>
   <tr>
@@ -100,7 +104,7 @@
 
 ---
 
-## GitHub Stats:
+## GitHub Stats
 
 ![](https://nirzak-streak-stats.vercel.app/?user=darshanbagade&theme=shadow_green&hide_border=false)<br/>
 
